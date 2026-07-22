@@ -1,0 +1,12 @@
+# Build artifacts
+.venv/
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Local smoke-test leftovers
+.smoke*/
